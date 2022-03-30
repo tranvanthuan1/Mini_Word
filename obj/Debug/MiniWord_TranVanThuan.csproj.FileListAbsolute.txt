@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\MiniWord_TranVanThuan\MiniWord_TranVanThuan\bin\Debug\MiniWord_TranVanThuan.exe.config
+C:\Users\Admin\source\repos\MiniWord_TranVanThuan\MiniWord_TranVanThuan\bin\Debug\MiniWord_TranVanThuan.exe
+C:\Users\Admin\source\repos\MiniWord_TranVanThuan\MiniWord_TranVanThuan\bin\Debug\MiniWord_TranVanThuan.pdb
+C:\Users\Admin\source\repos\MiniWord_TranVanThuan\MiniWord_TranVanThuan\obj\Debug\MiniWord_TranVanThuan.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\MiniWord_TranVanThuan\MiniWord_TranVanThuan\obj\Debug\MiniWord_TranVanThuan.MiniWord.resources
+C:\Users\Admin\source\repos\MiniWord_TranVanThuan\MiniWord_TranVanThuan\obj\Debug\MiniWord_TranVanThuan.Properties.Resources.resources
+C:\Users\Admin\source\repos\MiniWord_TranVanThuan\MiniWord_TranVanThuan\obj\Debug\MiniWord_TranVanThuan.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\MiniWord_TranVanThuan\MiniWord_TranVanThuan\obj\Debug\MiniWord_TranVanThuan.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\MiniWord_TranVanThuan\MiniWord_TranVanThuan\obj\Debug\MiniWord_TranVanThuan.exe
+C:\Users\Admin\source\repos\MiniWord_TranVanThuan\MiniWord_TranVanThuan\obj\Debug\MiniWord_TranVanThuan.pdb
